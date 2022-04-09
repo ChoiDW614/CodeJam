@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\Github\CodeJam\Double or Thing\Double or Thing\main.cpp(11,20): warning C4018: '<': signed/unsigned mismatch
+D:\Github\CodeJam\Double or Thing\Double or Thing\main.cpp(30,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\CodeJam\Double or Thing\Double or Thing\main.cpp(35,21): warning C4018: '<': signed/unsigned mismatch
+D:\Github\CodeJam\Double or Thing\Double or Thing\main.cpp(38,22): warning C4018: '<': signed/unsigned mismatch
+D:\Github\CodeJam\Double or Thing\Double or Thing\main.cpp(46,27): warning C4018: '<': signed/unsigned mismatch
+D:\Github\CodeJam\Double or Thing\Double or Thing\main.cpp(51,23): warning C4018: '<': signed/unsigned mismatch
+D:\Github\CodeJam\Double or Thing\Double or Thing\main.cpp(59,21): warning C4018: '<': signed/unsigned mismatch
+  Double or Thing.vcxproj -> D:\Github\CodeJam\Double or Thing\Debug\Double or Thing.exe
